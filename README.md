@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p style="float: left">
+  <img src="./flaming_laser_sword.jpeg"/>
+</p>
+
 - 🧱 I’m currently building hybrid mobile framework.  
 - 🌱 I’m currently learning Rust.
 - 🔨 Deep knowledge with CICD.
