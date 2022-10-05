@@ -6,7 +6,7 @@
 - 🔨 Deep knowledge with CICD.
 - 💻 10 years of full stack development experience.
 - 📱 Expert hybrid mobile developer.
-- 🎮 A mystery game in development
+- 🎮 A mystery game in development.
 - 🧮 Strong problem solving and algorithmic skills.
 
 <h2 align="center"> My GitHub Stat Trophies </h2>
