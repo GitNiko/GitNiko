@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**GitNiko/GitNiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img  align="right" height="250" src="./flaming_laser_sword.jpeg"/>
 
-Here are some ideas to get you started:
+- 🧱 I’m currently building hybrid mobile framework.  
+- 🌱 I’m currently learning Rust.
+- 🔨 Deep knowledge with CICD.
+- 💻 10 years of full stack development experience.
+- 📱 Expert hybrid mobile developer.
+- 🎮 A mystery game in development
+- 🧮 Strong problem solving and algorithmic skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> My GitHub Stat Trophies </h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gitniko&row=1&column=6&margin-w=10" />
+</p>
